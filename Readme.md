@@ -1,4 +1,4 @@
-### Hello! My name is [Petko Petkov](https://github.com/petkopetkov90) 🖐🏻
+### Hello! My name is [Petko Petkov](https://github.com/petkopetkov90) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
 >**I currently study at [_**SoftUni**_](https://softuni.bg/curriculum) on their C# developer program. I looking forward to pass all exams and modules with excellent grades and complete my studies for _C# Web Developer_ and _C# Full-Stack Developer_.**
 
