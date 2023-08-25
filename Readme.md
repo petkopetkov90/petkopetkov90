@@ -2,4 +2,4 @@
 
 I'm currently study at [SoftUni](https://softuni.bg/curriculum) on their C# developer program. I hope to pass all exams and modules with excellent grades and complete my studies for C# Web Developer and C# Full-Stack Developer
 
-[![](https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg)](https://www.facebook.com/petkopetkov900808)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg)](https://www.facebook.com/petkopetkov900808)
