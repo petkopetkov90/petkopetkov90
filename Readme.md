@@ -1,6 +1,6 @@
-### Hello! I'm [Petko Petkov](https://github.com/petkopetkov90) 🖐🏻
+### Hello! My name is [Petko Petkov](https://github.com/petkopetkov90) 🖐🏻
 
->I'm currently study at [_**SoftUni**_](https://softuni.bg/curriculum) on their C# developer program. I hope to pass all exams and modules with excellent grades and complete my studies for _C# Web Developer_ and _C# Full-Stack Developer_.
+>**I'm currently study at [_**SoftUni**_](https://softuni.bg/curriculum) on their C# developer program. I hope to pass all exams and modules with excellent grades and complete my studies for _C# Web Developer_ and _C# Full-Stack Developer_.**
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/petkopetkov900808)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/petko-petkov-004332278/) 
